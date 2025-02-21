@@ -171,7 +171,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Authors
 
-- edisedis777 - *Initial work* - [YourGithub](https://github.com/edisedis777)
+- edisedis777 - *Initial work* - [Github](https://github.com/edisedis777)
 
 ## Acknowledgments
 
