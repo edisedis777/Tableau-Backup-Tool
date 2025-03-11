@@ -1,9 +1,14 @@
-# Tableau Backup Tool
+# Tableau-Backup-Tool
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?logo=tableau&logoColor=white)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An automated tool for backing up Tableau workbooks and datasources to Git, featuring parallel processing, progress tracking, and smart file handling.
 
 ## Features
-
 - **Automated Backup**: Automatically downloads and backs up all Tableau workbooks and datasources
 - **Git Integration**: Seamlessly integrates with Git for version control
 - **Parallel Processing**: Uses multi-threading for faster downloads
@@ -14,7 +19,6 @@ An automated tool for backing up Tableau workbooks and datasources to Git, featu
 - **Detailed Logging**: Comprehensive logging system for monitoring and debugging
 
 ## Prerequisites
-
 - Python 3.7+
 - Git
 - Tableau Server access
@@ -79,12 +83,10 @@ python script.py --config config.yaml
 
 ```
 tableau-backup-tool/
-├── script.py           # Main script
-├── config.yaml        # Configuration file
-├── .env              # Environment variables
-├── requirements.txt  # Python dependencies
-├── README.md        # This file
-└── logs/            # Log files directory
+├── tableau-backup.py     # Main script
+├── config.yaml           # Configuration file
+├── requirements.txt      # Python dependencies
+└── README.md             # This file
 ```
 
 ## How It Works
@@ -169,16 +171,13 @@ Common error codes and their meanings:
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Authors
 
-- edisedis777 - *Initial work* - [Github](https://github.com/edisedis777)
-
-## Acknowledgments
-
+## Credits
 - Tableau Server Client library
 - GitPython contributors
 - TQDM progress bar library
 
-## Support
+<div align="right">
 
-For support, please create an issue in the GitHub repository or contact the maintainers.
+[Back To Top ⬆️](#Tableau-Backup-Tool)
+</div>
