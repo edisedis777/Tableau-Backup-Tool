@@ -72,7 +72,7 @@ overwrite_existing: false
 Run the backup tool:
 
 ```bash
-python script.py --config config.yaml
+python tableau-backup.py --config config.yaml
 ```
 
 ### Command Line Arguments
