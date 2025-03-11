@@ -1,0 +1,8 @@
+tableau_server: https://tableau.server.com
+git_repo: https://git.user.com/projects/test_proj
+base_dir: Tableau_Projects
+git_author:
+  name: User
+  email: user@outlook.com
+max_workers: 4
+overwrite_existing: false
