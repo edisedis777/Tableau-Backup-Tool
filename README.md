@@ -4,7 +4,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?logo=tableau&logoColor=white)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An automated tool for backing up Tableau workbooks and datasources to Git, featuring parallel processing, progress tracking, and smart file handling.
 
@@ -169,7 +168,7 @@ Common error codes and their meanings:
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GNU Affero General Public License v3.0 License. See `LICENSE` for more information.
 
 
 ## Credits
